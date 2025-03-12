@@ -3,3 +3,10 @@ aws_access_key_id = AKIAT4GVSAXXJS2HCCUF
 aws_secret_access_key = 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
 output = json
 region = us-east-2
+
+
+[default]
+aws_access_key_id = AKIAT4GVSAXXNU6MNYH2
+aws_secret_access_key = 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
+output = json
+region = us-east-2
